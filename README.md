@@ -4,7 +4,7 @@ CinemaApp, bir sinema salonu oturma düzenini yönetmek ve film seçimlerine gö
 
 ## Demo
 
-Uygulamanın canlı demo örneğine [buradan](#) ulaşabilirsiniz.
+Uygulamanın canlı demo örneğine [buradan](https://muhammetemiraslan.github.io/CinamaApp.github.io/) ulaşabilirsiniz.
 
 ## Özellikler
 
